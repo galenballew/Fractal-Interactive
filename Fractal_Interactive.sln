@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fractal_Interactive", "Assembly-CSharp.csproj", "{880FE92C-BBA8-E724-82FB-FF03A345754C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fractal_Interactive", "Assembly-CSharp-Editor.csproj", "{A703332F-A7AB-483B-D24D-221F02A0D54E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{880FE92C-BBA8-E724-82FB-FF03A345754C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880FE92C-BBA8-E724-82FB-FF03A345754C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880FE92C-BBA8-E724-82FB-FF03A345754C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880FE92C-BBA8-E724-82FB-FF03A345754C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A703332F-A7AB-483B-D24D-221F02A0D54E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A703332F-A7AB-483B-D24D-221F02A0D54E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A703332F-A7AB-483B-D24D-221F02A0D54E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A703332F-A7AB-483B-D24D-221F02A0D54E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
